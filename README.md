@@ -2,4 +2,4 @@
 
 They are named part_one.ipynb, etc.
 
-The interactive dashboard from [this article] is fully conained in the file _app.py_ and can be launched in a terminal with "python3 app.py". 
+The interactive dashboard from [this article](https://towardsdatascience.com/building-an-interactive-dashboard-to-simulate-coronavirus-scenarios-in-python-ed23100e0046) is fully conained in the file _app.py_ and can be launched in a terminal with "python3 app.py". 
